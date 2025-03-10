@@ -1,5 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = gs://mlops-project-dvc-bucket
-    credentialpath = ../service_account.json
+    url = gdrive://1TkQa6nWAP3M2KdoH11a3vhD9K5m62JAb
